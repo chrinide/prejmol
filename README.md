@@ -1,2 +1,2 @@
 # prejmol
-Convert a WFN file to a MOLDEN file to easy visualize
+Convert a WFN file into a molden file
